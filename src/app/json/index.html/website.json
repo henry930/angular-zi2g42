@@ -1,0 +1,154 @@
+{
+    "structure": {
+        "head": "\n\t\t<title id=\"title0\">Broadcast by TEMPLATED</title>\n\t\t<meta charset=\"utf-8\" id=\"meta1\">\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" id=\"meta2\">\n\t\t<link rel=\"stylesheet\" href=\"assets/css/main.css\" id=\"link3\">\n\t<script id=\"dz-control\" src=\"https://d27btag9kamoke.cloudfront.net/cdn6.4/js/dazzle-client.bundle.6.5.3.min.js\"></script>\n",
+        "body": "",
+        "head-attrs": {},
+        "body-attrs": {}
+    },
+    "title": "Broadcast by TEMPLATED",
+    "meta": [
+        {
+            "charset": "utf-8",
+            "id": "meta1"
+        },
+        {
+            "name": "viewport",
+            "content": "width=device-width, initial-scale=1",
+            "id": "meta2"
+        }
+    ],
+    "link": [
+        {
+            "id": "link3",
+            "class": "",
+            "tagName": "link",
+            "attrs": {
+                "rel": "stylesheet",
+                "href": "assets/css/main.css",
+                "id": "link3"
+            },
+            "content": ""
+        }
+    ],
+    "style": [],
+    "script": [
+        {
+            "id": "dz-control",
+            "class": "",
+            "tagName": "script",
+            "attrs": {
+                "id": "dz-control",
+                "src": "https://d27btag9kamoke.cloudfront.net/cdn6.4/js/dazzle-client.bundle.6.5.3.min.js"
+            },
+            "content": ""
+        }
+    ],
+    "body-link": [],
+    "body-style": [],
+    "body-script": [],
+    "atom": {
+        "title0": {
+            "id": "title0",
+            "class": "",
+            "tagName": "title",
+            "attrs": {
+                "id": "title0"
+            },
+            "content": "Broadcast by TEMPLATED"
+        },
+        "meta1": {
+            "id": "meta1",
+            "class": "",
+            "tagName": "meta",
+            "attrs": {
+                "charset": "utf-8",
+                "id": "meta1"
+            },
+            "content": ""
+        },
+        "meta2": {
+            "id": "meta2",
+            "class": "",
+            "tagName": "meta",
+            "attrs": {
+                "name": "viewport",
+                "content": "width=device-width, initial-scale=1",
+                "id": "meta2"
+            },
+            "content": ""
+        },
+        "link3": {
+            "id": "link3",
+            "class": "",
+            "tagName": "link",
+            "attrs": {
+                "rel": "stylesheet",
+                "href": "assets/css/main.css",
+                "id": "link3"
+            },
+            "content": ""
+        },
+        "dz-control": {
+            "id": "dz-control",
+            "class": "",
+            "tagName": "script",
+            "attrs": {
+                "id": "dz-control",
+                "src": "https://d27btag9kamoke.cloudfront.net/cdn6.4/js/dazzle-client.bundle.6.5.3.min.js"
+            },
+            "content": ""
+        },
+        "a": {
+            "id": "a",
+            "html": "Donec faucibus risus cursus",
+            "tagName": "a",
+            "class": "",
+            "attrs": {
+                "href": "#",
+                "data-tab": "tab-2",
+                "class": "",
+                "id": "a"
+            }
+        },
+        "_link": {
+            "id": "_link",
+            "html": "<span>Click Me</span>",
+            "tagName": "A",
+            "class": "link",
+            "attrs": {
+                "href": "generic.html",
+                "class": "link",
+                "id": "_link"
+            }
+        },
+        "_link7": {
+            "id": "_link7",
+            "html": "<span>Click Me</span>",
+            "tagName": "A",
+            "class": "link",
+            "attrs": {
+                "href": "generic.html",
+                "class": "link",
+                "id": "_link7"
+            }
+        },
+        "h2": {
+            "id": "h2",
+            "html": "Aliquam ipsum purus dolor",
+            "tagName": "h2",
+            "attrs": {
+                "id": "h2"
+            }
+        },
+        "span": {
+            "id": "span",
+            "html": "by TEMPLATED",
+            "tagName": "span",
+            "attrs": {
+                "id": "span"
+            }
+        }
+    },
+    "body": "\n\n\t\t<!-- Header -->\n\t\t\t<header id=\"header\" class=\"\">\n\t\t\t\t<h1><a href=\"#\">Broadcast <span id=\"span\">by DAZZLE</span></a></h1>\n\t\t\t\t<a href=\"#menu\">Menu</a>\n\t\t\t</header>\n\n\t\t<!-- Nav -->\n\t\t\t\n\n\t\t\t<!-- Banner -->\n\t\t\t<!--\n\t\t\t\tTo use a video as your background, set data-video to the name of your video without\n\t\t\t\tits extension (eg. images/banner). Your video must be available in both .mp4 and .webm\n\t\t\t\tformats to work correctly.\n\t\t\t-->\n\t\t\t\t<section id=\"banner\" data-video=\"images/banner\" class=\"\">\n\t\t\t\t\t<div class=\"inner\">\n\t\t\t\t\t\t<header>\n\t\t\t\t\t\t\t<h1 id=\"h1\" class=\"\">我是個傳播網站</h1>\n\t\t\t\t\t\t\t<p id=\"p\" class=\"\">更改我的面孔</p>\n\t\t\t\t\t\t</header>\n\t\t\t\t\t\t<a href=\"#main\" class=\"button big alt scrolly\" id=\"_button_big_alt_scrolly\">想知更多</a>\n\t\t\t\t\t</div>\n\n\t\t\t\t<video autoplay=\"\" loop=\"\"><source src=\"images/banner.mp4\" type=\"video/mp4\"><source src=\"images/banner.webm\" type=\"video/webm\"></video></section>\n\n\t\t<!-- Main -->\n\t\t\t<div id=\"main\" class=\"\">\n\n\t\t\t<!-- One -->\n\t\t\t\t<section class=\"wrapper style1\">\n\t\t\t\t\t<div class=\"inner\">\n\t\t\t\t\t\t<header class=\"align-center\">\n\t\t\t\t\t\t\t<h2>Nam eu nisi non ante sodale</h2>\n\t\t\t\t\t\t\t<p>Cras sagittis turpis sit amet est tempus, sit amet consectetur purus tincidunt.</p>\n\t\t\t\t\t\t</header>\n\t\t\t\t\t\t<!-- 2 Column Video Section -->\n\t\t\t\t\t\t\t<div class=\"flex flex-2\">\n\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic07.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<p class=\"caption\">\n\t\t\t\t\t\t\t\t\t\tPellentesque at nunc vitae urna suscipit mollis nec in arcu\n\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic08.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<p class=\"caption\">\n\t\t\t\t\t\t\t\t\t\tMorbi mattis ligula ut eros ipsum aliquam iaculis dictum suscipit\n\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</section>\n\n\t\t\t<!-- Two -->\n\t\t\t\t<section class=\"wrapper style2\">\n\t\t\t\t\t<div class=\"inner\">\n\t\t\t\t\t\t<header>\n\t\t\t\t\t\t\t<h2>Etiam veroeros lorem</h2>\n\t\t\t\t\t\t\t<p>Fusce fringilla enim sit amet lectus sollicitudin, eu tincidunt odio semper.</p>\n\t\t\t\t\t\t</header>\n\t\t\t\t\t\t<!-- Tabbed Video Section -->\n\t\t\t\t\t\t\t<div class=\"flex flex-tabs\">\n\t\t\t\t\t\t\t\t<ul class=\"tab-list\">\n\t\t\t\t\t\t\t\t\t<li><a href=\"#\" data-tab=\"tab-1\" class=\"active\" id=\"_active\">魔幻劇場</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"#\" data-tab=\"tab-2\" class=\"\" id=\"a\">家常小品</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"#\" data-tab=\"tab-3\" class=\"\" id=\"a\">恐怖現場</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t<div class=\"tabs\">\n\n\t\t\t\t\t\t\t\t\t<!-- Tab 1 -->\n\t\t\t\t\t\t\t\t\t\t<div class=\"tab tab-1 flex flex-3 active\">\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic01.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\" id=\"_link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic02.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"myparty.html\" class=\"link\" id=\"_link7\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic03.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic04.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic05.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic06.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t<!-- Tab 2 -->\n\t\t\t\t\t\t\t\t\t\t<div class=\"tab tab-2 flex flex-3\">\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic06.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic05.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic04.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic03.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic02.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic01.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t<!-- Tab 3 -->\n\t\t\t\t\t\t\t\t\t\t<div class=\"tab tab-3 flex flex-3\">\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic03.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic02.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic01.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic06.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic05.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<!-- Video Thumbnail -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic04.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</section>\n\n\t\t\t<!-- Three -->\n\t\t\t\t<section class=\"wrapper\">\n\t\t\t\t\t<div class=\"inner\">\n\t\t\t\t\t\t<header class=\"align-center\">\n\t\t\t\t\t\t\t<h2 id=\"h2\" class=\"\">我們的戰爭</h2>\n\t\t\t\t\t\t\t<p>Cras sagittis turpis sit amet est tempus, sit amet consectetur purus tincidunt.</p>\n\t\t\t\t\t\t</header>\n\n\t\t\t\t\t\t<!-- 3 Column Video Section -->\n\t\t\t\t\t\t\t<div class=\"flex flex-3\">\n\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic09.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<p class=\"caption\">\n\t\t\t\t\t\t\t\t\t\tCras eget lacus sed mauris scelerisque tincidunt\n\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic10.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<p class=\"caption\">\n\t\t\t\t\t\t\t\t\t\tVivamus vulputate lacus non massa auctor lobortis\n\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"video col\">\n\t\t\t\t\t\t\t\t\t<div class=\"image fit\">\n\t\t\t\t\t\t\t\t\t\t<img src=\"images/pic11.jpg\" alt=\"\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"arrow\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"icon fa-play\"></div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<p class=\"caption\">\n\t\t\t\t\t\t\t\t\t\tNam eu nisi non ante sodales interdum a vitae neque\n\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t<a href=\"generic.html\" class=\"link\"><span>Click Me</span></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</section>\n\n\t\t\t</div>\n\n\t\t<!-- Footer -->\n\t\t\t<footer id=\"footer\" class=\"\">\n\t\t\t\t<div class=\"inner\">\n\t\t\t\t\t<div class=\"flex flex-3\">\n\t\t\t\t\t\t<div class=\"col\">\n\t\t\t\t\t\t\t<h3>Vestibullum</h3>\n\t\t\t\t\t\t\t<ul class=\"alt\">\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Nascetur nunc varius commodo.</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Vis id faucibus montes tempor</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Massa amet lobortis vel.</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Nascetur nunc varius commodo.</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col\">\n\t\t\t\t\t\t\t<h3>Lobortis</h3>\n\t\t\t\t\t\t\t<ul class=\"alt\">\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Nascetur nunc varius commodo.</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Vis id faucibus montes tempor</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Massa amet lobortis vel.</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Nascetur nunc varius commodo.</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col\">\n\t\t\t\t\t\t\t<h3>Accumsan</h3>\n\t\t\t\t\t\t\t<ul class=\"alt\">\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Nascetur nunc varius commodo.</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Vis id faucibus montes tempor</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Massa amet lobortis vel.</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Nascetur nunc varius commodo.</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"copyright\">\n\t\t\t\t\t<ul class=\"icons\">\n\t\t\t\t\t\t<li><a href=\"#\" class=\"icon fa-twitter\"><span class=\"label\">Twitter</span></a></li>\n\t\t\t\t\t\t<li><a href=\"#\" class=\"icon fa-facebook\"><span class=\"label\">Facebook</span></a></li>\n\t\t\t\t\t\t<li><a href=\"#\" class=\"icon fa-instagram\"><span class=\"label\">Instagram</span></a></li>\n\t\t\t\t\t\t<li><a href=\"#\" class=\"icon fa-snapchat\"><span class=\"label\">Snapchat</span></a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t\t© Untitled. Design: <a href=\"https://templated.co\">TEMPLATED</a>. Images: <a href=\"https://unsplash.com\">Coverr</a>. Video: <a href=\"https://coverr.co\">Coverr</a>.\n\t\t\t\t</div>\n\t\t\t</footer>\n\n\t\t<!-- Scripts -->\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\n\t\n<nav id=\"menu\" class=\"\">\n\t\t\t\t<ul class=\"links\">\n\t\t\t\t\t<li><a href=\"index.html\" style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0);\">Home</a></li>\n\t\t\t\t\t<li><a href=\"generic.html\" style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0);\">Generic</a></li>\n\t\t\t\t\t<li><a href=\"elements.html\" style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0);\">Elements</a></li>\n\t\t\t\t</ul>\n\t\t\t<a href=\"#menu\" class=\"close\" style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0);\"></a></nav>",
+    "master": {}
+}
